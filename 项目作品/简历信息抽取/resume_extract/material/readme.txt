@@ -1,1 +1,0 @@
-base_score  edu_score  skills_score  comments_self_score honor_score school_exp_score job_exp_score
